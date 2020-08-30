@@ -12,7 +12,7 @@
 * The app also provides information about the events and any cost associated with it
 
 # Technologies Used
-The application is built using HTML5, PHP, Bootstrap, MySQL, and JavaScript
+The application is built using HTML5, CSS, PHP, Bootstrap, MySQL, and JavaScript
 
 # Database
 The database is not currently uploaded but it will be up soon
