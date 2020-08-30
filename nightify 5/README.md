@@ -2,21 +2,20 @@
 # Nightify
 
 # Motivation 
-* The purpose of Gamerz Market is to be an open marketplace for everyone who likes or is interested in video games. Our aim is to make transactions of video games more feasible and economical. 
-* What makes us different? We allow users to get in touch with each other, so that they can reach a deal between themselves for the brand new/pre-owned games they want to sell/buy.
-* With Gamerz Market, you’ll be able to sell your old video game collection to someone who wants it and make good money, or better invest it into more video games! 
-* Gamers hate it when a video game isn’t cross-platform or the fact that they can’t find a game version of their console therefore, we offer a game library with Xbox, PS4 and PC compatibility. 
+* Most web apps are available for the whole Philadelphia region not specific to Drexel Events
+* Incoming Freshmen find it difficult to get involved on campus
+* Students living off- campus do not have any idea about the events happening  
 
-# What Gamerz Market has to offer? 
-* A guest user can browse video games and filter their search based on their console and video game condition i.e. brand new or pre-owned.
-* An account holder is able to post ads on the website as well as, contact other users in order to purchase their games that are on the market. 
-* When a user has an account with us, we have their personal information on consent from them, so that in a case where something goes wrong, we know who to report and who to kick out from the Gamerz community.  
+# What Nightify Market has to offer? 
+* It's a webapp which can be accessed through drexel e-mail and it lists all the events happening on campus
+* There is a messaging board incorporated on the web app which will can connect people attending the same event
+* The app also provides information about the events and any cost associated with it
 
 # Technologies Used
-The application is built using HTML5, CSS3, Bootstrap, Node.js, MySQL, and JavaScript
+The application is built using HTML5, PHP, Bootstrap, MySQL, and JavaScript
 
 # Database
-We do not have our database hosted, so if you want to see the website working, you will have to create a sample database using the database schema present [here](https://github.com/ibrahimkamal7/GamerzMarket/tree/master/databaseschema-images)
+The database is not currently uploaded but it will be up soon
 
 # Repository Structure
 * Root Directory - contains the code for the application
