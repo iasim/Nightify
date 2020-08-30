@@ -18,10 +18,9 @@ The application is built using HTML5, PHP, Bootstrap, MySQL, and JavaScript
 The database is not currently uploaded but it will be up soon
 
 # Repository Structure
-* Root Directory - contains the code for the application
-* ScreenShots - contains the screenshot of the working website
-* databaseschema-images - contains the database schema of the database used for the application
-* images - directory used for storing the images which the users upload while posting the advertisements
+* Root Directory - contains the folder which contains all the code
+* nightify 5- Sub Directory to the root directory, it contains all the code
+* css- contained in nightify , it incorporates all the styling components
 
 # How to run the project
 * Create a sample database using the database schema provided
@@ -32,6 +31,6 @@ The database is not currently uploaded but it will be up soon
 * Open http://localhost:8080 to view the website
 
 # Collaborators/Developers
-* Hruday Vairagade: Full Stack Developer
-* Ibrahim Kamal: Full Stack Developer
-* Umair Usmani: Front-End Developer
+* Haris Jalal- Project Managar
+* Duy Woang- Full-Stack Developer
+* Mohammad Asim Iqbal- Full Stack Developer
